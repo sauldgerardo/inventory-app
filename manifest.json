@@ -1,0 +1,12 @@
+{
+  "name": "Inventory Tracker",
+  "short_name": "Inventory",
+  "description": "Daily inventory counts and sales dashboard for the family store.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f6f4f0",
+  "theme_color": "#c2703d",
+  "icons": [
+    { "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
